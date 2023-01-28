@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative_Statement", "Iterative_Statement.csproj", "{7D5C179E-B50A-485B-9F8C-F2C94250CC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5C179E-B50A-485B-9F8C-F2C94250CC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5C179E-B50A-485B-9F8C-F2C94250CC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5C179E-B50A-485B-9F8C-F2C94250CC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5C179E-B50A-485B-9F8C-F2C94250CC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D51D1C-AE30-49EB-AD87-62599AB769A9}
+	EndGlobalSection
+EndGlobal
